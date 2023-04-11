@@ -1,7 +1,7 @@
 # Gdrive-Duplicates-Remover
 This notebook will remove duplicates in your google drive!
 
-<a href="https://colab.research.google.com/github/iamkish0re/Gdrive-Duplicates-Remover/blob/gdrive-test/GDrive_duplicates_remover.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
+<a href="https://colab.research.google.com/github/r2d2meuleu/Gdrive-Duplicates-Remover/blob/main/GDrive_duplicates_remover.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
 
 ### How to use?
 
